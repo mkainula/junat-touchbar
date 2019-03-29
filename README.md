@@ -2,6 +2,8 @@
 
 Electron proto for showing train schedules on a Macbook Touchbar.
 
+![](screenshot.png)
+
 ### Running
 
 ```
